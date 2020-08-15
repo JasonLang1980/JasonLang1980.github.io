@@ -24,14 +24,13 @@ Now we can plug in that total cost: 2500 + 558.45 + 3200 + 4160 = $10,418.45/yea
 
 ### **Example:**  
 > | Cost Element | Quantity | Amount per Item | Total |  
->  
-> | --- | --- | --- | --- |
-> | Liscence | 1 | 2500 | 2500 |
-> | Data Transfer | 1 | 1.53 | 558.45 |
-> | Setup | 1 | 3200 | 3200 |
-> | Upkeep | 104 | 40 | 4160 | 
-> | --- | --- | --- | --- |
-> | Grand Total | | | 10418.45 |
+> | --- | --- | --- | --- |  
+> | Liscence | 1 | 2500 | 2500 |  
+> | Data Transfer | 1 | 1.53 | 558.45 |  
+> | Setup | 1 | 3200 | 3200 |  
+> | Upkeep | 104 | 40 | 4160 |  
+> | --- | --- | --- | --- |  
+> | Grand Total | | | 10418.45 |  
 > 
 >  * No more servers to maintain for the project
 >  * More storage at a cheaper cost
