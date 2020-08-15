@@ -51,5 +51,5 @@ With this tool in your toolbox you can see for yourself if the new widget is wor
 
 ###### About The Author
 Jason Lang is a long time advocate of SOA architecture, LEAN practices and the DevOps culture.  
-[Email: ranathalan.desbw@gmail.com](mailto:ranathalan.desbw@gmail.com)  
+Email: [ranathalan.desbw@gmail.com](mailto:ranathalan.desbw@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/jason-lang-1525a86b/)  
