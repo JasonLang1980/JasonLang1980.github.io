@@ -24,6 +24,7 @@ Now we can plug in that total cost: 2500 + 558.45 + 3200 + 4160 = $10,418.45/yea
 
 ### **Example:**  
 > | Cost Element | Quantity | Amount per Item | Total |
+>  
 > | --- | --- | --- | --- |
 > | Liscence | 1 | 2500 | 2500 |
 > | Data Transfer | 1 | 1.53 | 558.45 |
