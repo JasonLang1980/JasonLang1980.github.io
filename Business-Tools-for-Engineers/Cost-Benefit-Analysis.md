@@ -36,7 +36,7 @@ Now we can plug in that total cost: 2500 + 558.45 + 3200 + 4160 = $10,418.45/yea
 > | Upkeep | 104 | 40 | 4160 |  
 > | --- | --- | --- | --- |  
 > | Grand Total | | | 10418.45 |  
-> 
+> {: .tablelines}
 >  * No more servers to maintain for the project
 >  * More storage at a cheaper cost
 >  * Better UI interface
