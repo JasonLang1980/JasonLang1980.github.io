@@ -1,3 +1,8 @@
+<style>
+    .tablelines table, .tablelines td, .tablelines th {
+        border: 2px solid black;
+    }
+</style>
 # Business tools for Engineers: Cost Benefit Analysis
 
 ![How much will it cost?](./howmuch.jpg)
