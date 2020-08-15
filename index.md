@@ -2,4 +2,4 @@
   
 # Articles  
 * Business Tools for Engineers  
-    * [Cost Benefit Analysis](./_posts/Cost-Benefit-Analysis)   
+    * [Cost Benefit Analysis](./Buisiness-Tools-for-Engineers/Cost-Benefit-Analysis)   
