@@ -1,6 +1,6 @@
 # Business tools for Engineers: Cost Benefit Analysis
 
-![How much will it cost?](./Business-Tools-for-Engineers/howmuch.jpg)
+![How much will it cost?](./howmuch.jpg)
 
 ***“How much will it cost?”*** The question I have been asked almost every time I bring forth the idea of a new technology or process to a company. That, my friends, is a bit of treacherous waters that I hope to provide you with a map through. Indulge me for awhile and I will  help you understand the formula for success that is a proper Cost Benefit Analysis.
 
