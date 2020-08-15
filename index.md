@@ -1,3 +1,4 @@
+{: .page-header}
 # Articles  
 * Business Tools for Engineers  
-    * [Cost Benefit Analysis](./Business-Tools-for-Engineers/Cost-Benefit-Analysis)   
+    * [Cost Benefit Analysis](./_posts/Cost-Benefit-Analysis)   
