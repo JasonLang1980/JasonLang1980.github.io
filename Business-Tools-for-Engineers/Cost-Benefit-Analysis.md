@@ -23,7 +23,7 @@ Now we can plug in that total cost: 2500 + 558.45 + 3200 + 4160 = $10,418.45/yea
 *Element five*, the final element is the benefit. This is where you can evangelize the better process; easier use, quicker integration, etc. that this new widget provides. Once you list out these features, I would suggest some screen shots of the UI, etc. but not too many. One small one per highlight tends to be sufficient.
 
 ### **Example:**  
-> | Cost Element | Quantity | Amount per Item | Total |
+> | Cost Element | Quantity | Amount per Item | Total |  
 >  
 > | --- | --- | --- | --- |
 > | Liscence | 1 | 2500 | 2500 |
