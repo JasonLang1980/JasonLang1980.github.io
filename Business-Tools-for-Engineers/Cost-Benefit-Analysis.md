@@ -27,7 +27,7 @@ Now we can plug in that total cost: 2500 + 558.45 + 4160 + 5408 = $12,626.45/yea
 ### **Example:**  
 > | Cost Element | Quantity | Amount per Item | Total |  
 > | --- | --- | --- | --- |  
-> | Liscence | 1 | 2500 | 2500 |  
+> | License | 1 | 2500 | 2500 |  
 > | Data Transfer | 1 | 1.53 | 558.45 |  
 > | Setup | 80 | 52 | 4160 |  
 > | Upkeep | 104 | 52 | 5408 |  
