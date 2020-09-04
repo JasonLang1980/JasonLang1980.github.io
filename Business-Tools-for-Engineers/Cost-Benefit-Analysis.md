@@ -18,11 +18,11 @@ To make it more relatable,  let's use a hypothetical exercise. We have an existi
   
 ***EX***: (24 * 0.045) + ( 10 * 0.045) = $1.53 per day. For an annual cost of: 1.53*365 = $558.45.
 
-***Element three*** is engineering hours. This is the cost in engineer hours required to get the new item implemented. The time to setup and configure the account to integrate with our company’s SSO and security standards in this case. Lets say it will take a typical scrum sprint, or two weeks, to complete this setup for a single engineer. That’s 80 engineer hours at the cost of an engineer. In most companies, either your manager or a member of your Human Resources can give you an average hourly rate for engineer within the company. You can use that for this calculation. Lets say it’s somewhere in the ball park of $40/hr. We will want to adjust it to cover for taxes, benefits, PTO and etc, so lets make sure to multiply it by the benefits modulus or 1.30. Then this cost element formula would be: Engineer Hours * (Base Hourly Cost * Benefits Modulous)  = Total Cost in engineer hours.  
+***Element three*** is engineering hours. This is the cost in engineer hours required to get the new item implemented. The time to setup and configure the account to integrate with our company’s SSO and security standards in this case. Lets say it will take a typical scrum sprint, or two weeks, to complete this setup for a single engineer. That’s 80 engineer hours at the cost of an engineer. In most companies, either your manager or a member of your Human Resources can give you an average hourly rate for engineer within the company. You can use that for this calculation. Lets say it’s somewhere in the ball park of $40/hr. We will want to adjust it to cover for taxes, benefits, PTO and etc, so lets make sure to multiply it by the benefits modulus or 1.30. Then this cost element formula would be: Engineer Hours * (Base Hourly Cost * Benefits Modulus )  = Total Cost in engineer hours.  
   
 ***EX***: 80*(40 * 1.3) = $4,160 or 80 * 52 = $4,160.
 
-***Element four*** is the upkeep costs. This is often the killer for any CBA that gets forgotten. The man hours of user maintenance, standardization enforcement, adding new internal widgets to report to it, data rotation, cleanup tasks, and agent updates. This will never be 100% accurate but the best way I have found to estimate this cost is to assume 5-10% of one engineer’s time over the course of a year depending on premise or SaaS. With this being a SaaS application we will go with the 5% mark. So let's find the annual hours with this formula: (Hours per week * Weeks in a year) * Percentage of Hours = Hours for Upkeep. Then we will want to multiply that by the price of those hours from element three so: Hours for Upkeep * ( Base Salary * Benefits Modulous ) = Upkeep Costs per year.  
+***Element four*** is the upkeep costs. This is often the killer for any CBA that gets forgotten. The man hours of user maintenance, standardization enforcement, adding new internal widgets to report to it, data rotation, cleanup tasks, and agent updates. This will never be 100% accurate but the best way I have found to estimate this cost is to assume 5-10% of one engineer’s time over the course of a year depending on premise or SaaS. With this being a SaaS application we will go with the 5% mark. So let's find the annual hours with this formula: (Hours per week * Weeks in a year) * Percentage of Hours = Hours for Upkeep. Then we will want to multiply that by the price of those hours from element three so: Hours for Upkeep * ( Base Salary * Benefits Modulus ) = Upkeep Costs per year.  
   
 ***EX***: (40 * 52) * 0.05 = 104 then 104 * (40 * 1.3) = $5,408/year.
 
@@ -45,7 +45,7 @@ Now we can plug in that total cost: 2500 + 558.45 + 4160 + 5408 = $12,626.45/yea
 >  * More storage at a cheaper cost
 >  * Better UI interface
 >  * Better Search capabilities
->  * Machine Learning Assistance for anomoly detection
+>  * Machine Learning Assistance for anomaly detection
 >  * The Ability to build graphs from Log based data via common syntax
 >  * The Ability to Extend the interface with custom NodeJS additions using sdk
 
