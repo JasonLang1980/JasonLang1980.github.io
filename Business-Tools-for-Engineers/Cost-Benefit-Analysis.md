@@ -39,7 +39,7 @@ Now we can plug in that total cost: 2500 + 558.45 + 4160 + 5408 = $12,626.45/yea
 >  * More storage at a cheaper cost
 >  * Better UI interface
 >  * Better Search capabilities
->  * Machine Learning Assistance for anomoly detection
+>  * Machine Learning Assistance for anomaly detection
 >  * The Ability to build graphs from Log based data via common syntax
 >  * The Ability to Extend the interface with custom NodeJS additions using sdk
 
