@@ -1,7 +1,9 @@
 {: .page-header} 
 # Business tools for Engineers: Cost Benefit Analysis pt 2
 
-In the previous post I explained how to build out the standard Cost Benefit Analysis for a single "widget". In this post I will go into depth on how I compare two products against each other to choose the one I will be putting my support behind. 
+![Which one?](./whichone.png)  
+
+In the previous post, I explained how to build out the standard Cost Benefit Analysis for a single "widget". In this post, I will go into depth on how I compare two products against each other to choose the one I will be putting my support behind. 
 
 In some cases, choosing a widget is clear cut. Cheaper overall cost or one has way more features and capabilities than any others available. Other times the clear winner is more difficult to spot. Lets compare two separate cost benefit analysis's for a moment: 
 
